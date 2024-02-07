@@ -60,9 +60,10 @@ COLOR PALETTE
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
 }
 .txt_index {
-	font-size: 25px;
+	font-size: 20px;
 	color: #1a1a1a;
-	text-align: justify;
+	text-align: center;
+	line-height: 1.4;
 }
 body
 {
