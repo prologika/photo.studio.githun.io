@@ -45,6 +45,9 @@
 
 @media only screen and (max-width: 1380px)
 {
+	.logo_img {
+		max-width: 100px;
+	}
 	.header
 	{
 		width: 1200px;
@@ -78,6 +81,9 @@
 
 @media only screen and (max-width: 1280px)
 {
+	.logo_img {
+		max-width: 100px;
+	}
 	.header
 	{
 		width: 90%;
@@ -218,6 +224,9 @@
 	{
 		margin-top: 15px;
 	}
+	.logo_img {
+		max-width: 100px;
+	}
 }
 
 /************
@@ -226,6 +235,9 @@
 
 @media only screen and (max-width: 575px)
 {
+	.logo_img {
+		max-width: 100px;
+	}
 	h1{font-size: 24px;}
 	p{font-size:13px;}
 	.header
@@ -356,7 +368,9 @@
 
 @media only screen and (max-width: 539px)
 {
-	
+	.logo_img {
+		max-width: 100px;
+	}
 }
 
 /************
@@ -365,7 +379,9 @@
 
 @media only screen and (max-width: 480px)
 {
-	
+	.logo_img {
+		max-width: 100px;
+	}
 }
 
 /************
